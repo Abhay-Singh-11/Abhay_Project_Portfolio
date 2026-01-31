@@ -1,0 +1,5 @@
+churn_streaming_project/data/
+churn_export/
+*.tar.gz
+*.parquet
+__pycache__/
